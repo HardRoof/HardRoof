@@ -1,18 +1,14 @@
 # Hi, I'm Mateus Grandez
 
-I'm a computer science student at the University of Regina. I build mobile and web apps, mostly with TypeScript, React Native and React. I like small, finished things: apps with a clear idea, no feed, no ads, and an end.
+I'm a computer science student at the University of Regina. I build mobile and web apps, mostly with TypeScript, React Native and React.
 
 ## What I'm building now
 
 ### Mixletter
 
-[![Mixletter: rewind to 1986, make someone a mixtape and fold a letter in](assets/mixletter.png)](https://mixletter-web.vercel.app)
+An Android app for making a mixtape for one person: up to 12 songs on two sides, with a letter folded in. They hear it front to back, one song at a time, in a room set in 1986. See it at [mixletter-web.vercel.app](https://mixletter-web.vercel.app).
 
-An Android app for making a mixtape for one person. You pick up to 12 songs across two sides, write a letter to go with it, and seal it. They hear it front to back, one song at a time, in the order you chose. The whole app is your bedroom in 1986: a tape cabinet, a corkboard of friends, a desk where you make tapes.
-
-On its way to the Play Store. Take a look at [mixletter-web.vercel.app](https://mixletter-web.vercel.app).
-
-**Built with** Expo, React Native, TypeScript, Reanimated, Supabase (Postgres, row-level security, push notifications), TanStack Query, Zustand
+**Built with** Expo, React Native, TypeScript, Supabase
 
 ### Dawn & Dusk
 
